@@ -1,5 +1,9 @@
 # costclaw — Python client for CostClaw
 
+[![PyPI](https://img.shields.io/pypi/v/costclaw.svg)](https://pypi.org/project/costclaw/)
+[![Python versions](https://img.shields.io/pypi/pyversions/costclaw.svg)](https://pypi.org/project/costclaw/)
+[![License: MIT](https://img.shields.io/pypi/l/costclaw.svg)](./LICENSE)
+
 Official Python client for the [CostClaw](https://costclaw.ai) freight-invoice
 audit API. Upload quotes and invoices, and CostClaw converts them, matches
 invoice ↔ booking ↔ quote, flags overcharges, and drafts disputes — this library
